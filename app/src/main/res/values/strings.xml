@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="fullName">Aissa Laribi</string>
+    <string name="title">DevOps/Software/Android Engineer</string>
+    <string name="githubLink">github.com/aissa-laribi/</string>
+    <string name="leetcodeLink">leetcode.com/aissa-laribi/</string>
+    <string name="linkedinLink">linkedin.com/in/aissa-laribi</string>
+</resources>
